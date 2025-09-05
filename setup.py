@@ -11,7 +11,7 @@ setup(
     version="0.0.1",
     author="Paloma Jaworosky",
     author_email="jaworosky@gmail.com",
-    description="My short description",
+    description="Desafio DIO",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="my_github_repository_project_link"
@@ -19,3 +19,4 @@ setup(
     install_requires=requirements,
     python_requires='>=3.8',
 )
+
